@@ -1,0 +1,5 @@
+-thêm sĩ số vào Lớp
+-thêm 3 ô sĩ số, nhận xét, nội dung bài giảng
+-xuất file excel thống kê thực giảng.
+
+Thống kê giáo vụ: giảng viên , tên môn,tổng số tiết (số tiết thật), sĩ số(hệ số).

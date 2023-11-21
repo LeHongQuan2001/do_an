@@ -1,0 +1,63 @@
+#body-login{
+    background-color: #FFFFFF;
+    background-image: url('../../bootstrap/img/banner_login_new.png');
+    background-size: 48%;
+    background-repeat: no-repeat;
+}
+
+div.banner-login {
+    margin: 30px;
+    position: relative;
+    top: 65px;
+    left: 46%;
+}
+
+div.login-box {
+    position: relative;
+    bottom: 22px;
+    left: 22%;
+}
+.intro h3{
+    position: relative;
+    left: 59%;
+    margin: 0;
+    color:#767679;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: serif;
+}
+.login-box-body h2{
+    font-weight: bold;
+    font-family: emoji;
+   
+}
+#form_login input[type='text'],#form_login input[type='password']{
+    border: none;
+    border-bottom: 2px solid #767679;
+}
+.btn-log{
+    margin-top: 10px;
+    color: white;
+    background: #486CD9;
+    font-size: 20px;
+    padding: 7px 25px;
+}
+.btn-log:hover{
+    background-color: #6B6CD9;
+    color: white;
+}
+#logo-new {
+    padding: 0;
+}
+#logo-new img{
+    height: 100%;
+    width: 100%;
+}
+table tr td{
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+   }
+/* input.form-control{
+      margin-top: 30px;
+    } */
